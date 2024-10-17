@@ -12,3 +12,4 @@
 /Users/krishna_chitta/gitportfolio/csharp/CSEventSchedularApp/obj/Debug/net8.0/CSEventSchedularApp.pdb
 /Users/krishna_chitta/gitportfolio/csharp/CSEventSchedularApp/obj/Debug/net8.0/CSEventSchedularApp.genruntimeconfig.cache
 /Users/krishna_chitta/gitportfolio/csharp/CSEventSchedularApp/obj/Debug/net8.0/ref/CSEventSchedularApp.dll
+/Users/krishna_chitta/gitportfolio/csharp/CSEventSchedularApp/obj/Debug/net8.0/CSEventSchedularApp.sourcelink.json
