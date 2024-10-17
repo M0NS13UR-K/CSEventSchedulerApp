@@ -1,0 +1,14 @@
+/Users/krishna_chitta/gitportfolio/csharp/CSEventSchedularApp/bin/Debug/net8.0/CSEventSchedularApp
+/Users/krishna_chitta/gitportfolio/csharp/CSEventSchedularApp/bin/Debug/net8.0/CSEventSchedularApp.deps.json
+/Users/krishna_chitta/gitportfolio/csharp/CSEventSchedularApp/bin/Debug/net8.0/CSEventSchedularApp.runtimeconfig.json
+/Users/krishna_chitta/gitportfolio/csharp/CSEventSchedularApp/bin/Debug/net8.0/CSEventSchedularApp.dll
+/Users/krishna_chitta/gitportfolio/csharp/CSEventSchedularApp/bin/Debug/net8.0/CSEventSchedularApp.pdb
+/Users/krishna_chitta/gitportfolio/csharp/CSEventSchedularApp/obj/Debug/net8.0/CSEventSchedularApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/krishna_chitta/gitportfolio/csharp/CSEventSchedularApp/obj/Debug/net8.0/CSEventSchedularApp.AssemblyInfoInputs.cache
+/Users/krishna_chitta/gitportfolio/csharp/CSEventSchedularApp/obj/Debug/net8.0/CSEventSchedularApp.AssemblyInfo.cs
+/Users/krishna_chitta/gitportfolio/csharp/CSEventSchedularApp/obj/Debug/net8.0/CSEventSchedularApp.csproj.CoreCompileInputs.cache
+/Users/krishna_chitta/gitportfolio/csharp/CSEventSchedularApp/obj/Debug/net8.0/CSEventSchedularApp.dll
+/Users/krishna_chitta/gitportfolio/csharp/CSEventSchedularApp/obj/Debug/net8.0/refint/CSEventSchedularApp.dll
+/Users/krishna_chitta/gitportfolio/csharp/CSEventSchedularApp/obj/Debug/net8.0/CSEventSchedularApp.pdb
+/Users/krishna_chitta/gitportfolio/csharp/CSEventSchedularApp/obj/Debug/net8.0/CSEventSchedularApp.genruntimeconfig.cache
+/Users/krishna_chitta/gitportfolio/csharp/CSEventSchedularApp/obj/Debug/net8.0/ref/CSEventSchedularApp.dll
